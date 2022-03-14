@@ -24,5 +24,5 @@ Summary of the new found results
   - Arapahoe: 6.7% (24,801)
 - The county with the largest voter turnout: Denever
 
-##Election-Audit Summary:
+## Election-Audit Summary:
 This script was written in a way which can be used again in many different purposes. One of the most obvious ways this script can be used is to create an analysis report for elections in other counties. The only thing you would need to pass is the correct corressponding data. One way this script can be improved on is to analyzes what was the majority vote for each county. As we can see, Denever county accounted for most of the votes. If it was shown that most of Denever county had voted for the winning canidate, maybe this can lay out future plans for upcoming canidates. They can focus more on the interest of the people of Denever county to ensure greater odds of winning the race. 
